@@ -102,7 +102,7 @@ function LastBooks() {
             : "This classic tale brings readers into the adventurous world of young Peter, who lives on the edge of a deep, dark forest..."}
         </CardDescription>
         <Button onClick={toggleDescription}>
-          {showFullDescription ? "Show Less" : "Learn More"}
+          {showFullDescription ? "Show Less" : "Read More"}
         </Button>
       </Card>
     </Section>
