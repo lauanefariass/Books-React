@@ -1,8 +1,8 @@
 import React from "react";
 import styled from "styled-components";
-import Header from "../src/componentes/header"; // Importe o header
-import SearchBar from "../src/componentes/Search"; // Importe o componente de input
-import LastBooks from "../src/componentes/LastBooks"; // ou o caminho correto para o seu componente
+import Header from "../src/componentes/header";
+import SearchBar from "../src/componentes/Search";
+import LastBooks from "../src/componentes/LastBooks";
 
 const AppContainer = styled.div`
   width: 100vw;
@@ -15,7 +15,7 @@ function App() {
     <AppContainer>
       <Header />
       <SearchBar />
-      {/* Outros componentes que você já tinha */}
+
       <LastBooks />
     </AppContainer>
   );
