@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Books-React/static/js/main.b8cd7c87.js",
+    "static/js/453.d3af3e77.chunk.js": "/Books-React/static/js/453.d3af3e77.chunk.js",
+    "static/media/soulbook.jpg": "/Books-React/static/media/soulbook.6567c48f74d59934182a.jpg",
+    "static/media/penbook.jpg": "/Books-React/static/media/penbook.db03159f6fdf0df01170.jpg",
+    "static/media/woman.jpg": "/Books-React/static/media/woman.1e574e81f042c7d4aeaa.jpg",
+    "static/media/All-This-Time-1.webp": "/Books-React/static/media/All-This-Time-1.60ce3484c0dcb432425c.webp",
+    "static/media/sacola.svg": "/Books-React/static/media/sacola.a1f2af1cb32c08ae75c7b23485161cbe.svg",
+    "static/media/perfil.svg": "/Books-React/static/media/perfil.d459471fbeda60d7f2a433b0f6b660de.svg",
+    "static/media/logo.svg": "/Books-React/static/media/logo.fb94b5d2c8bab55c807403043ee961fe.svg",
+    "index.html": "/Books-React/index.html",
+    "main.b8cd7c87.js.map": "/Books-React/static/js/main.b8cd7c87.js.map",
+    "453.d3af3e77.chunk.js.map": "/Books-React/static/js/453.d3af3e77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b8cd7c87.js"
+  ]
+}
